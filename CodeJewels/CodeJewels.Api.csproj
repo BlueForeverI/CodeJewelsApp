@@ -161,7 +161,7 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\ValuesController.cs" />
+    <Compile Include="Controllers\JewelsController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -286,6 +286,16 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CodeJewels.DataLayer\CodeJewels.DataLayer.csproj">
+      <Project>{B0EAD25B-8805-4113-B645-7A763F1E6073}</Project>
+      <Name>CodeJewels.DataLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CodeJewels.Models\CodeJewels.Models.csproj">
+      <Project>{08E8F373-D106-4F75-86F4-4D02D83E6D2E}</Project>
+      <Name>CodeJewels.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
