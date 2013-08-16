@@ -1,0 +1,10 @@
+E:\Documents\Telerik-Software-Academy\Web Services\0.Homework\AppHarborHomework\CodeJewelsApp\CodeJewels.DataLayer\bin\Debug\CodeJewels.DataLayer.dll.config
+E:\Documents\Telerik-Software-Academy\Web Services\0.Homework\AppHarborHomework\CodeJewelsApp\CodeJewels.DataLayer\bin\Debug\CodeJewels.DataLayer.dll
+E:\Documents\Telerik-Software-Academy\Web Services\0.Homework\AppHarborHomework\CodeJewelsApp\CodeJewels.DataLayer\bin\Debug\CodeJewels.DataLayer.pdb
+E:\Documents\Telerik-Software-Academy\Web Services\0.Homework\AppHarborHomework\CodeJewelsApp\CodeJewels.DataLayer\bin\Debug\CodeJewels.Models.dll
+E:\Documents\Telerik-Software-Academy\Web Services\0.Homework\AppHarborHomework\CodeJewelsApp\CodeJewels.DataLayer\bin\Debug\EntityFramework.dll
+E:\Documents\Telerik-Software-Academy\Web Services\0.Homework\AppHarborHomework\CodeJewelsApp\CodeJewels.DataLayer\bin\Debug\CodeJewels.Models.pdb
+E:\Documents\Telerik-Software-Academy\Web Services\0.Homework\AppHarborHomework\CodeJewelsApp\CodeJewels.DataLayer\bin\Debug\EntityFramework.xml
+E:\Documents\Telerik-Software-Academy\Web Services\0.Homework\AppHarborHomework\CodeJewelsApp\CodeJewels.DataLayer\obj\Debug\CodeJewels.DataLayer.csprojResolveAssemblyReference.cache
+E:\Documents\Telerik-Software-Academy\Web Services\0.Homework\AppHarborHomework\CodeJewelsApp\CodeJewels.DataLayer\obj\Debug\CodeJewels.DataLayer.dll
+E:\Documents\Telerik-Software-Academy\Web Services\0.Homework\AppHarborHomework\CodeJewelsApp\CodeJewels.DataLayer\obj\Debug\CodeJewels.DataLayer.pdb

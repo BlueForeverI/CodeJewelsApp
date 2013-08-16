@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeJewels.Api", "CodeJewels\CodeJewels.Api.csproj", "{81B54608-CAF2-4021-8152-1526CD6FF794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeJewels.Models", "..\CodeJewels.Models\CodeJewels.Models.csproj", "{08E8F373-D106-4F75-86F4-4D02D83E6D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeJewels.DataLayer", "CodeJewels.DataLayer\CodeJewels.DataLayer.csproj", "{B0EAD25B-8805-4113-B645-7A763F1E6073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81B54608-CAF2-4021-8152-1526CD6FF794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B54608-CAF2-4021-8152-1526CD6FF794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B54608-CAF2-4021-8152-1526CD6FF794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B54608-CAF2-4021-8152-1526CD6FF794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08E8F373-D106-4F75-86F4-4D02D83E6D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E8F373-D106-4F75-86F4-4D02D83E6D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E8F373-D106-4F75-86F4-4D02D83E6D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E8F373-D106-4F75-86F4-4D02D83E6D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0EAD25B-8805-4113-B645-7A763F1E6073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0EAD25B-8805-4113-B645-7A763F1E6073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0EAD25B-8805-4113-B645-7A763F1E6073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0EAD25B-8805-4113-B645-7A763F1E6073}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
